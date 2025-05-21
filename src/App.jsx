@@ -32,7 +32,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 to-purple-900 px-4 md:px-6 lg:px-8">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-800 to-purple-900 px-4 md:px-6 lg:px-8">
       <div className="bg-white/90 backdrop-blur-md border border-gray-200 p-6 rounded-2xl shadow-[0_0_20px_#10b98140] w-full max-w-md text-center transition-all">
         <div className="flex flex-col items-center space-y-2">
           <HeartPulseIcon className="w-12 h-12 text-emerald-500 animate-pulse" />
